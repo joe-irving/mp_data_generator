@@ -1,0 +1,14 @@
+,male,female,nonBinary,total,party.id,party.name,party.abbreviation,party.backgroundColour,party.foregroundColour,party.isLordsMainParty,party.isLordsSpiritualParty,party.governmentType,party.isIndependentParty
+0,269,88,0,357,4,Conservative,Con,0000ff,ffffff,True,True,0.0,False
+1,96,104,0,200,15,Labour,Lab,ff0000,ffffff,True,False,3.0,False
+2,28,16,0,44,29,Scottish National Party,SNP,fcf28f,000000,False,False,,False
+3,5,9,0,14,17,Liberal Democrat,LD,f8a428,FFFFFF,True,False,,False
+4,8,2,0,10,8,Independent,Ind,C0C0C0,FFFFFF,False,False,,True
+5,7,1,0,8,7,Democratic Unionist Party,DUP,000080,FFFFFF,False,True,,False
+6,5,2,0,7,30,Sinn Féin,SF,99CC00,FFFFFF,False,False,,False
+7,2,1,0,3,22,Plaid Cymru,PC,3f8428,ffffff,False,False,,False
+8,2,0,0,2,1034,Alba Party,Alba,0015ff,,False,False,,False
+9,1,1,0,2,31,Social Democratic & Labour Party,SDLP,CCFFCC,000000,False,False,,False
+10,1,0,0,1,1,Alliance,Alliance,C0C0C0,FFFFFF,False,False,,False
+11,0,1,0,1,44,Green Party,Green,78b82a,FFFFFF,False,False,,False
+12,1,0,0,1,47,Speaker,Spk,,,False,False,,False
